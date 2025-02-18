@@ -1,0 +1,90 @@
+{
+    "1260150971804160062": {
+        "players": [
+            "core",
+            "egg",
+            "cho",
+            "h",
+            "n",
+            "m"
+        ],
+        "selected_characters": [
+            [
+                "Psylocke",
+                "Duelist",
+                "core"
+            ],
+            [
+                "Scarlet Witch",
+                "Duelist",
+                "egg"
+            ],
+            [
+                "Captain America",
+                "Vanguard",
+                "cho"
+            ],
+            [
+                "Peni Parker",
+                "Vanguard",
+                "h"
+            ],
+            [
+                "Invisible Woman",
+                "Strategist",
+                "n"
+            ],
+            [
+                "Mantis",
+                "Strategist",
+                "m"
+            ]
+        ],
+        "num_players": 6,
+        "message_id": 1341327234895581184
+    },
+    "704097843081642097": {
+        "players": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "selected_characters": [
+            [
+                "Magik",
+                "Duelist",
+                "1"
+            ],
+            [
+                "Loki",
+                "Strategist",
+                "2"
+            ],
+            [
+                "Adam Warlock",
+                "Strategist",
+                "3"
+            ],
+            [
+                "Mister Fantastic",
+                "Duelist",
+                "4"
+            ],
+            [
+                "Groot",
+                "Vanguard",
+                "5"
+            ],
+            [
+                "Thor",
+                "Vanguard",
+                "6"
+            ]
+        ],
+        "num_players": 6,
+        "message_id": 1341328084401393674
+    }
+}
